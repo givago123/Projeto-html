@@ -10,10 +10,10 @@
     color: var(--primary-color);
 }
 
-main-content {
+.main-content {
     max-width: 120rem;
     margin: 0 auto;
-    padding: var(--gap);
+    padding: 10rem var(--gap);
 }
 
 .section {
